@@ -18,12 +18,17 @@ Cette application aborde le thème de Gestion et suivi des dossiers médicaux de
 - Base de données : MySQL
 - Environnement de Codage : VS Code, Vite
 - Tests : API Postman
-### Coté Serveur 
+
+### Démarrage de L'application 
+#### Coté Serveur 
+Dans le terminal, nous écrivons la commande suivante : php artisan serve
+#### Coté Client 
+Dans le terminal, nous écrivons la commande suivante : npm start
+
+### Installations 
 - Pour installer un projet Laravel (Version 9), on écrit la commande suivante : composer create-project laravel/laravel:^9.x  example-app
-- Pour Démarrer le serveur, Nous écrivons la commande suivante : php artisan serve
-### Coté Client 
 - Pour installer un projet ReactJS, Nous écrivant la commande suivante : npx create-reat-app <nom_de_votre_projet>
-- Pour Démarrer le projet, on écrit la commande suivante : npm start
+
 ## Controleur
 - Pour créer un controleur, utilisez la commande suivante : 
 - php  artisan  make:controller  nom_de_votre_controleur
