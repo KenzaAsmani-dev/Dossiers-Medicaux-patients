@@ -24,15 +24,15 @@ Cette application nommée SDMPRO aborde le thème de Gestion et suivi des dossie
 #### Cloner le Projet
 - Créer un dossier dans le Local
 - Ouvrez le CMD en accédant à ce projet
-- écrivez la commande suivante : git clone (SSH ou HTTPS)
+- Tapez la commande suivante : git clone (SSH ou HTTPS)
   
 #### Coté Serveur 
 - Ouvrez le terminal
-- écrivez la commande suivante : php artisan serve
+- Tapez la commande suivante : php artisan serve
 
 #### Coté Client 
 - Ouvrez le terminal
-- écrivons la commande suivante : npm start
+- Tapez la commande suivante : npm start
 
 ### Installations 
 - Pour installer un projet Laravel (Version 9), on écrit la commande suivante : composer create-project laravel/laravel:^9.x  example-app
