@@ -1,5 +1,5 @@
 # Dossiers-Medicaux-patients
-Cette application aborde le thème de Gestion et suivi des dossiers médicaux des des patients dans un Système hospitalier universitaire. 
+Cette application nommée SDMPRO aborde le thème de Gestion et suivi des dossiers médicaux des des patients dans un Système hospitalier universitaire. 
 ### Le Système d'Information Hospitalier (SIH) est très essentiel pour assurer une gestion efficace et sécurisée des établissements de santé, ils permettent à :  
 -	Automatiser les processus administratifs. 
 -	Collaborer entre les professionnels de santé.
